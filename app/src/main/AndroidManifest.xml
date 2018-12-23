@@ -26,7 +26,7 @@
             android:name=".RingtoneService"
             android:enabled="true" />
 
-        <activity android:name=".Plantilla"></activity>
+        <activity android:name=".Plantilla" />
     </application>
 
 </manifest>
