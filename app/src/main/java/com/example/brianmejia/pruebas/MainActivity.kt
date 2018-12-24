@@ -13,6 +13,11 @@ class MainActivity : AppCompatActivity() {
         setContentView(R.layout.activity_main)
 
         //inicio de las operaciones
+        var elemento1:String=""
+        var elemento2:String=""
+        var elemento3:String=""
+        var contador=0
+
 
 
 
